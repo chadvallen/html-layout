@@ -1,0 +1,27 @@
+
+
+header {
+    height: 20vh;
+    background: rgb(60,60,60);
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(210,210,210);
+    height: 100vh;
+}
+
+section {
+    height: 70vh;
+    background: rgb(236,236,236);
+}
+
+footer {
+    background: rgb(31,31,31);
+    height: 10vh;
+}
+
+section, footer {
+    margin: 0 auto;
+    width: 70%;
+}
